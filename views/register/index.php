@@ -2,8 +2,8 @@
 
 <div class="container">
     <div class="page-header">
-        <h1> User Registration </h1>
-    </div>
+        <h1>Register</h1>
+
 
     <div class="row">
         <div class="span8">
@@ -43,6 +43,7 @@
                 ?>
             </script>
 
+        </div>
         </div>
     </div>
 </div>

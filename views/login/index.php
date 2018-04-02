@@ -1,7 +1,7 @@
 <?php include('views/elements/header.php');?>
 <div class="container">
 	<div class="page-header">
-   <h1> the Login View </h1>
+   <h1>Login</h1>
         <?php if($login_error){?>
             <div class="alert alert-error">
                 <button type="button" class="close" data-dismiss="alert">×</button>
